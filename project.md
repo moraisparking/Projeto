@@ -66,12 +66,14 @@ A lista seguinte aponta um conjunto de desejos manifestados pelos usuários:
 ### 1.3 Soluções Alternativas
 Para solucionar os problemas da empresa foi sugerido criar várias planilhas
 no Microsoft Office Excel que ajudariam aos usuários do sistema na organização da
-empresa. 
+empresa.
 
-Como analisa de sistemas, e com base nos seus conhecimentos técnicos
+**Como analista de sistemas, e com base nos seus conhecimentos técnicos
 sobre processos de requisitos e analise e engenharia de software, qual seria a
 solução sob seu ponto de vista para o problema que se apresenta? Não precisa
-nesse momento detalhar sua solução, seja sucinto e objetivo.
+nesse momento detalhar sua solução, seja sucinto e objetivo.**
+
+*Nós cremos que a melhor solução seria um *software* de sistema de controle financeiro, capaz de atender as demandas da empresa sem a necessidade de ser operada por um funcionário especializado em excel*
 
 ### 1.4 Solução Escolhida
 Considerando que, a primeira opção foi descartada, pois seria difícil a
@@ -81,9 +83,9 @@ possivelmente exigiria a manipulação de várias tabelas, podendo tornar o serv
 mais complicado, moroso e confuso.  Também existe a necessidade de se gerar relatórios de forma mais precisa e completa,
 fazendo esse trabalho no Microsoft Office Excel não seria tão eficaz conforme imaginado pelo cliente inicialmente.
 
-Desse modo, apresente de forma detalhada sua solução para a tratativa do
+**Desse modo, apresente de forma detalhada sua solução para a tratativa do
 problema apresentado nesse contexto? Forneça mais detalhes que possam
-proporcionar efeitos positivos no processo de negócio da empresa.
+proporcionar efeitos positivos no processo de negócio da empresa.**
 
 ### 1.5 Impactos do Sistema na Organização
 Nesse ponto, deverá ser apresentado um conjunto de características e
@@ -92,12 +94,13 @@ evoluir com a implantação do software a ser construído.
 
 ## 2 Elaboração e Especificação
 Essas atividades focam o desenvolvimento de um modelo técnico com
-características e restrições do software . Uma análise abrangente e correta para que
-ao final do desenvolvimento e, consequentemente, durante a entrega do software
-exista o mínimo de erros possíveis no sistema. Além do mais, serão mostrados
-detalhes das características do sistema e seu funcionamento, a partir da definição de
-atores, eventos, diagramas de casos de uso e diagrama de classes. A modelagem
-dos diagramas de análise foi realizada por intermédio da linguagem UML (Unified
+características e restrições do software.
+
+Uma análise abrangente e correta para que ao final do desenvolvimento e, 
+consequentemente, durante a entrega do software exista o mínimo de erros possíveis no 
+sistema. Além do mais, serão mostrados detalhes das características do sistema e seu funcionamento, 
+a partir da definição de atores, eventos, diagramas de casos de uso e diagrama de classes. 
+A modelagem dos diagramas de análise foi realizada por intermédio da linguagem UML (Unified
 Modeling Language).
 
 ### 2.1 Definição dos Atores
