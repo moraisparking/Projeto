@@ -53,19 +53,22 @@ modo a fornecer maior confiança às suas negociações.
 Além de obter relatórios mais precisos e ágeis, esse sistema forneceria maior
 apoio aos processos de vendas da empresa, visto que controlará todas as
 movimentações de compras e vendas, aumentando assim a clareza de informações
-e auxiliando para o contínuo crescimento da empresa. A lista seguinte aponta um
-conjunto de desejos manifestados pelos usuários:
-Ter um controle de cadastro de clientes
-Ter um controle de cadastro de produtos
-Ter um controle de estoque
-Ter um controle nas transações de compra e venda
-Melhorar organização da empresa com relatórios precisos
-Tornar o trabalho mais fácil e rápido
+e auxiliando para o contínuo crescimento da empresa. 
+
+A lista seguinte aponta um conjunto de desejos manifestados pelos usuários:
+- Ter um controle de cadastro de clientes
+- Ter um controle de cadastro de produtos
+- Ter um controle de estoque
+- Ter um controle nas transações de compra e venda
+- Melhorar organização da empresa com relatórios precisos
+- Tornar o trabalho mais fácil e rápido
 
 ### 1.3 Soluções Alternativas
 Para solucionar os problemas da empresa foi sugerido criar várias planilhas
 no Microsoft Office Excel que ajudariam aos usuários do sistema na organização da
-empresa. Como analisa de sistemas, e com base nos seus conhecimentos técnicos
+empresa. 
+
+Como analisa de sistemas, e com base nos seus conhecimentos técnicos
 sobre processos de requisitos e analise e engenharia de software, qual seria a
 solução sob seu ponto de vista para o problema que se apresenta? Não precisa
 nesse momento detalhar sua solução, seja sucinto e objetivo.
@@ -75,9 +78,9 @@ Considerando que, a primeira opção foi descartada, pois seria difícil a
 organização de toda empresa nas planilhas do Microsoft Office Excel, levando
 também em consideração que, para gerenciar uma empresa através de planilhas,
 possivelmente exigiria a manipulação de várias tabelas, podendo tornar o serviço
-mais complicado, moroso e confuso. Também existe a necessidade de se gerar
-relatórios de forma mais precisa e completa, fazendo esse trabalho no Microsoft
-Office Excel não seria tão eficaz conforme imaginado pelo cliente inicialmente.
+mais complicado, moroso e confuso.  Também existe a necessidade de se gerar relatórios de forma mais precisa e completa,
+fazendo esse trabalho no Microsoft Office Excel não seria tão eficaz conforme imaginado pelo cliente inicialmente.
+
 Desse modo, apresente de forma detalhada sua solução para a tratativa do
 problema apresentado nesse contexto? Forneça mais detalhes que possam
 proporcionar efeitos positivos no processo de negócio da empresa.
