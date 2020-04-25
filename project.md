@@ -64,35 +64,14 @@ A lista seguinte aponta um conjunto de desejos manifestados pelos usuários:
 - Tornar o trabalho mais fácil e rápido
 
 ### 1.3 Soluções Alternativas
-Para solucionar os problemas da empresa foi sugerido criar várias planilhas
-no Microsoft Office Excel que ajudariam aos usuários do sistema na organização da
-empresa.
-
-**Como analista de sistemas, e com base nos seus conhecimentos técnicos
-sobre processos de requisitos e analise e engenharia de software, qual seria a
-solução sob seu ponto de vista para o problema que se apresenta? Não precisa
-nesse momento detalhar sua solução, seja sucinto e objetivo.**
 
 *A melhor solução para este problema seria a criação um software de sistema de controle financeiro, capaz de atender as demandas da empresa sem a necessidade de ser operada por um funcionário especializado em excel e geração de relatórios de maneira simplificada e pratica de ser lida e reutilizada*
 
 ### 1.4 Solução Escolhida
-Considerando que, a primeira opção foi descartada, pois seria difícil a
-organização de toda empresa nas planilhas do Microsoft Office Excel, levando
-também em consideração que, para gerenciar uma empresa através de planilhas,
-possivelmente exigiria a manipulação de várias tabelas, podendo tornar o serviço
-mais complicado, moroso e confuso.  Também existe a necessidade de se gerar relatórios de forma mais precisa e completa,
-fazendo esse trabalho no Microsoft Office Excel não seria tão eficaz conforme imaginado pelo cliente inicialmente.
-
-**Desse modo, apresente de forma detalhada sua solução para a tratativa do
-problema apresentado nesse contexto? Forneça mais detalhes que possam
-proporcionar efeitos positivos no processo de negócio da empresa.**
 
 *O *software* que seria criado para esse proprosito organizaria todas as informações da empresa como os usuarios (Cliente e funcionario), fornecedores, o produto em relação ao controle de entradas, saidas, notas fiscais, estoque e ate mesmo os contratos da empresa em relação a todos os anteriores citados. Seria gerado relatórios impressos e online em tempo real com todas essas informações de maneira rapida e pratica, sem a necessidade de muito conhecimento em excel por parte do responsável pela empresa.*
 
 ### 1.5 Impactos do Sistema na Organização
-Nesse ponto, deverá ser apresentado um conjunto de características e
-informações relevantes que demonstre como os processos da organização pode
-evoluir com a implantação do software a ser construído.
 
 *Com esse software seram gerados relatórios a respeito do controle de estoque atraves do controle de entrada e saída, irá alertar ao responsavel se haverá a necessidade de contato com o fornecedor para o preenchimento de mais produtos, notas fiscais seram geradas automaticamente para o cliente no ato da compra e será tudo devidamente registro em sistema para futuras analises ou impressão de relatorios.*
 *A empresa ficará ciente da situação de todos os funcionários, como registro de ponto, se estão trabalhando de maneira efetiva mediante a sua função. Em casos de faltas sem justificativa, atrasos ou saídas antecipadas sem a autorização do responsavel do setor, será gerado relatórios a respeito do debito de horas do funcinário.*
