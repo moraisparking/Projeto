@@ -91,7 +91,7 @@ O sistema em si terá uma tela inicial que dará as opções:
 
 * Opção de gerar relatório, onde que nessa opção a administração da empresa terá como extrair e visualizar os relatórios da quantidade de compras que foram realizadas no mês, valor total faturado dentro de um período, quais produtos saíram mais dentro de um período, falta de produto em estoque, quantos pedidos de produtos para os fornecedores foram realizados, todo tipo de nota fiscal para melhorar o controle dos contadores.
 
-### 2.4 Diagrama de Classes
+### 2.3 Diagrama de Classes
 
 ![Class Diagram0](https://user-images.githubusercontent.com/64055734/80416140-04871180-88aa-11ea-9f6c-399760177784.png)
 
