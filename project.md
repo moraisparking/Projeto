@@ -64,13 +64,13 @@ A lista seguinte aponta um conjunto de desejos manifestados pelos usuários:
 - Tornar o trabalho mais fácil e rápido
 
 ### 1.3 Soluções Alternativas
-A melhor solução para este problema seria a criação um software de sistema de controle financeiro, capaz de atender as demandas da empresa sem a necessidade de ser operada por um funcionário especializado em excel e geração de relatórios de maneira simplificada e pratica de ser lida e reutilizada
+A melhor solução para este problema seria a criação um software de sistema de controle financeiro, capaz de atender as demandas da empresa sem a necessidade de ser operada por um funcionário especializado em excel e geração de relatórios de maneira simplificada e prática de ser lida e reutilizada
 
 ### 1.4 Solução Escolhida
-O software que seria criado para esse proprosito organizaria todas as informações da empresa como os usuarios (Cliente e funcionario), fornecedores, o produto em relação ao controle de entradas, saidas, notas fiscais, estoque e ate mesmo os contratos da empresa em relação a todos os anteriores citados. Seria gerado relatórios impressos e online em tempo real com todas essas informações de maneira rapida e pratica, sem a necessidade de muito conhecimento em excel por parte do responsável pela empresa.
+O software que seria criado para esse propósito organizaria todas as informações da empresa como os usuários (Cliente e funcionário), fornecedores, o produto em relação ao controle de entradas, saídas, notas fiscais, estoque e ate mesmo os contratos da empresa em relação a todos os anteriores citados. Seria gerado relatórios impressos e online em tempo real com todas essas informações de maneira rápida e prática, sem a necessidade de muito conhecimento em excel por parte do responsável pela empresa.
 
 ### 1.5 Impactos do Sistema na Organização
-Com esse software seram gerados relatórios a respeito do controle de estoque atraves do controle de entrada e saída, irá alertar ao responsavel se haverá a necessidade de contato com o fornecedor para o preenchimento de mais produtos, notas fiscais seram geradas automaticamente para o cliente no ato da compra e será tudo devidamente registro em sistema para futuras analises ou impressão de relatorios. A empresa ficará ciente da situação de todos os funcionários, como registro de ponto, se estão trabalhando de maneira efetiva mediante a sua função. Em casos de faltas sem justificativa, atrasos ou saídas antecipadas sem a autorização do responsavel do setor, será gerado relatórios a respeito do debito de horas do funcinário.
+Com esse software serão gerados relatórios a respeito do controle de estoque através do controle de entrada e saída, irá alertar ao responsável se haverá a necessidade de contato com o fornecedor para o preenchimento de mais produtos, notas fiscais serão geradas automaticamente para o cliente no ato da compra e será tudo devidamente registro em sistema para futuras análises ou impressão de relatórios. A empresa ficará ciente da situação de todos os funcionários, como registro de ponto, se estão trabalhando de maneira efetiva mediante a sua função. Em casos de faltas sem justificativa, atrasos ou saídas antecipadas sem a autorização do responsável do setor, será gerado relatórios a respeito do débito de horas do funcionário.
 
 ## 2 Elaboração e Especificação
 
