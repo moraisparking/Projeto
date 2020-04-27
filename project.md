@@ -73,15 +73,7 @@ O software que seria criado para esse proprosito organizaria todas as informaç�
 Com esse software seram gerados relatórios a respeito do controle de estoque atraves do controle de entrada e saída, irá alertar ao responsavel se haverá a necessidade de contato com o fornecedor para o preenchimento de mais produtos, notas fiscais seram geradas automaticamente para o cliente no ato da compra e será tudo devidamente registro em sistema para futuras analises ou impressão de relatorios. A empresa ficará ciente da situação de todos os funcionários, como registro de ponto, se estão trabalhando de maneira efetiva mediante a sua função. Em casos de faltas sem justificativa, atrasos ou saídas antecipadas sem a autorização do responsavel do setor, será gerado relatórios a respeito do debito de horas do funcinário.
 
 ## 2 Elaboração e Especificação
-Essas atividades focam o desenvolvimento de um modelo técnico com
-características e restrições do software.
 
-Uma análise abrangente e correta para que ao final do desenvolvimento e, 
-consequentemente, durante a entrega do software exista o mínimo de erros possíveis no 
-sistema. Além do mais, serão mostrados detalhes das características do sistema e seu funcionamento, 
-a partir da definição de atores, eventos, diagramas de casos de uso e diagrama de classes. 
-A modelagem dos diagramas de análise foi realizada por intermédio da linguagem UML (Unified
-Modeling Language).
 
 ### 2.1 Definição dos Atores
 As pessoas que vão interagir com a aplicação, são as partes interessadas, ou seja, quem solicitou a aplicação. Como também o sistema terá que ter suporte e possíveis atualizações, também será utilizado por nossa empresa que é quem ficará responsável por esse tipo de serviço. Futuramente, com a expansão do sistema, a meta é produzir um site onde que o cliente final também possa interagir com o sistema, assim podendo fazer um cadastro, atualizar suas informações e verificar possíveis descontos disponíveis.
