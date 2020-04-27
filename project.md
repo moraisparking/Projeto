@@ -95,3 +95,6 @@ O sistema em si terá uma tela inicial que dará as opções:
 
 ![Class Diagram0](https://user-images.githubusercontent.com/64055734/80416140-04871180-88aa-11ea-9f6c-399760177784.png)
 
+### 2.4 Protótipo Interativo
+
+https://www.figma.com/proto/jUkv5MCvoXKSSowIB5uyaa/Prot%C3%B3tipo-mercado?node-id=9%3A2&viewport=462%2C341%2C0.56033855676651&scaling=min-zoom
