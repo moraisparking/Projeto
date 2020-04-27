@@ -11,4 +11,4 @@
 #### Nome: João Pedro
 #### Email: juanpeterisrael@gmail.com
 
-## OBS: Todo o projeto está sendo upado e atualizado no arquivo projet.md.
+## OBS: Todo o projeto está sendo upado e atualizado no arquivo project.md.
