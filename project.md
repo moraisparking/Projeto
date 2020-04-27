@@ -64,17 +64,13 @@ A lista seguinte aponta um conjunto de desejos manifestados pelos usuários:
 - Tornar o trabalho mais fácil e rápido
 
 ### 1.3 Soluções Alternativas
-
-*A melhor solução para este problema seria a criação um software de sistema de controle financeiro, capaz de atender as demandas da empresa sem a necessidade de ser operada por um funcionário especializado em excel e geração de relatórios de maneira simplificada e pratica de ser lida e reutilizada*
+A melhor solução para este problema seria a criação um software de sistema de controle financeiro, capaz de atender as demandas da empresa sem a necessidade de ser operada por um funcionário especializado em excel e geração de relatórios de maneira simplificada e pratica de ser lida e reutilizada
 
 ### 1.4 Solução Escolhida
-
-*O *software* que seria criado para esse proprosito organizaria todas as informações da empresa como os usuarios (Cliente e funcionario), fornecedores, o produto em relação ao controle de entradas, saidas, notas fiscais, estoque e ate mesmo os contratos da empresa em relação a todos os anteriores citados. Seria gerado relatórios impressos e online em tempo real com todas essas informações de maneira rapida e pratica, sem a necessidade de muito conhecimento em excel por parte do responsável pela empresa.*
+O software que seria criado para esse proprosito organizaria todas as informações da empresa como os usuarios (Cliente e funcionario), fornecedores, o produto em relação ao controle de entradas, saidas, notas fiscais, estoque e ate mesmo os contratos da empresa em relação a todos os anteriores citados. Seria gerado relatórios impressos e online em tempo real com todas essas informações de maneira rapida e pratica, sem a necessidade de muito conhecimento em excel por parte do responsável pela empresa.
 
 ### 1.5 Impactos do Sistema na Organização
-
-*Com esse software seram gerados relatórios a respeito do controle de estoque atraves do controle de entrada e saída, irá alertar ao responsavel se haverá a necessidade de contato com o fornecedor para o preenchimento de mais produtos, notas fiscais seram geradas automaticamente para o cliente no ato da compra e será tudo devidamente registro em sistema para futuras analises ou impressão de relatorios.*
-*A empresa ficará ciente da situação de todos os funcionários, como registro de ponto, se estão trabalhando de maneira efetiva mediante a sua função. Em casos de faltas sem justificativa, atrasos ou saídas antecipadas sem a autorização do responsavel do setor, será gerado relatórios a respeito do debito de horas do funcinário.*
+Com esse software seram gerados relatórios a respeito do controle de estoque atraves do controle de entrada e saída, irá alertar ao responsavel se haverá a necessidade de contato com o fornecedor para o preenchimento de mais produtos, notas fiscais seram geradas automaticamente para o cliente no ato da compra e será tudo devidamente registro em sistema para futuras analises ou impressão de relatorios. A empresa ficará ciente da situação de todos os funcionários, como registro de ponto, se estão trabalhando de maneira efetiva mediante a sua função. Em casos de faltas sem justificativa, atrasos ou saídas antecipadas sem a autorização do responsavel do setor, será gerado relatórios a respeito do debito de horas do funcinário.
 
 ## 2 Elaboração e Especificação
 Essas atividades focam o desenvolvimento de um modelo técnico com
@@ -88,22 +84,22 @@ A modelagem dos diagramas de análise foi realizada por intermédio da linguagem
 Modeling Language).
 
 ### 2.1 Definição dos Atores
-Os atores representam entidades que irão interagir com o sistema, onde não
-precisam ser somente uma pessoa específica, podem ser também outro sistema?
-Conforme o decorrer da criação de sua solução, apresente os atores envolvidos no
-processo.
+As pessoas que vão interagir com a aplicação, são as partes interessadas, ou seja, quem solicitou a aplicação. Como também o sistema terá que ter suporte e possíveis atualizações, também será utilizado por nossa empresa que é quem ficará responsável por esse tipo de serviço. Futuramente, com a expansão do sistema, a meta é produzir um site onde que o cliente final também possa interagir com o sistema, assim podendo fazer um cadastro, atualizar suas informações e verificar possíveis descontos disponíveis.
 
 ### 2.2 Lista de Requisitos
-Apresentar de forma detalhada as funcionalidades a serem incorporadas ao
-sistema, visando atender às necessidades do cliente assim como os processos de
-negócio da empresa.
+O sistema em si terá uma tela inicial que dará as opções:
 
-### 2.3 Diagrama de Caso de Uso
-O diagrama de caso de uso irá relata toda interação entre o(s) ator(es) e o
-sistema, cada evento gera ações de interação entre o(s) ator(es) e o software
-desenvolvido.
+* Cadastrar nova compra, onde estará listados todos os produtos comprados por um cliente específico; 
+
+* Opção de cadastrar cliente, que será utilizado tanto pelo caixa, que será realizado um cadastro rápido com o Nome e CPF por praticidade, quanto pelos terminais, que terá as opções de atualizar o cliente; 
+
+* Opção de cadastrar produto, onde será realizado a inserção de produtos no estoque;
+
+* Opção de solicitar pedido para que seja feita a solicitação de pedido para um fornecedor especifico;
+
+* Opção de gerar relatório, onde que nessa opção a administração da empresa terá como extrair e visualizar os relatórios da quantidade de compras que foram realizadas no mês, valor total faturado dentro de um período, quais produtos saíram mais dentro de um período, falta de produto em estoque, quantos pedidos de produtos para os fornecedores foram realizados, todo tipo de nota fiscal para melhorar o controle dos contadores.
 
 ### 2.4 Diagrama de Classes
-O diagrama de classes será de fundamental importância na criação do
-software, precisam ser claros e com nível de entendimento que supra as
-necessidade de desenvolvimento.
+
+![Class Diagram0](https://user-images.githubusercontent.com/64055734/80416140-04871180-88aa-11ea-9f6c-399760177784.png)
+
