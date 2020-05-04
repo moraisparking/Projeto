@@ -93,8 +93,12 @@ O sistema em si terá uma tela inicial que dará as opções:
 
 ### 2.3 Diagrama de Classes
 
-![Class Diagram0](https://user-images.githubusercontent.com/64055734/80416140-04871180-88aa-11ea-9f6c-399760177784.png)
+![Diagrama de Classes](https://user-images.githubusercontent.com/64562867/81007026-df088380-8e26-11ea-8966-8fe9d260d8dc.png)
 
-### 2.4 Protótipo Interativo
+### 2.4 Diagrama de Telas (Início)
+
+![DIagrama de TElas](https://user-images.githubusercontent.com/64562867/81007093-fe9fac00-8e26-11ea-9294-04753609045c.png)
+
+### 2.5 Protótipo Interativo
 
 https://www.figma.com/proto/jUkv5MCvoXKSSowIB5uyaa/Prot%C3%B3tipo-mercado?node-id=9%3A2&viewport=462%2C341%2C0.56033855676651&scaling=min-zoom
